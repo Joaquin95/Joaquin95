@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front-end development using HTML, CSS, JavaScript and React.js**
 
-- 📫 How to reach me **Mintinvestments95@gmail.com**
+- 📫 How to reach me **Joaquinmorales5613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
