@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving javascript skills**
 
-- 🤝 I’m looking for help with **learning swift.**
+- 🤝 I’m looking for help with **Blockchain.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joaquin95](https://github.com/Joaquin95)
 
